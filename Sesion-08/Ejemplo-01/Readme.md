@@ -50,7 +50,7 @@
 
 <details>
  <summary>Solución</summary>
- 	La implementación de tu **Model** deberá de verse de la sig. manera:
+ 	La implementación de tu Model deberá de verse de la sig. manera:
 	
   ![](0.png)
 </details> 
