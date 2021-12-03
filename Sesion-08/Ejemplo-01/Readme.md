@@ -49,9 +49,9 @@
 * **Importante** Antes de revisar la solución intentalo por tu cuenta, recuenrda simepre practicar.
 
 <details>
-	<summary>Solución</summary>
-	La implementación de tu **Model** deberá de verse de la sig. manera:
+ <summary>Solución</summary>
+ 	La implementación de tu **Model** deberá de verse de la sig. manera:
 	
-	![](0.png)
+  ![](0.png)
 </details> 
 
