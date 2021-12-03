@@ -46,6 +46,12 @@
 	```
 * De esta forma tendrás los datos listos dentro de tu **Model**.
 
-* La implementación de tu **Model** deberá de verse de la sig. manera:
+* **Importante** Antes de revisar la solución intentalo por tu cuenta, recuenrda simepre practicar.
 
-* ![](0.png)
+<details>
+	<summary>Solución</summary>
+	La implementación de tu **Model** deberá de verse de la sig. manera:
+	
+	![](0.png)
+</details> 
+
